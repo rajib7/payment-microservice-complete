@@ -1,0 +1,12 @@
+# Postgres
+POSTGRES_USER=payments
+POSTGRES_PASSWORD=payments_pass
+POSTGRES_DB=payments_db
+
+# App
+MOCK_GATEWAY=true
+ENV=dev
+
+# Stripe
+STRIPE_API_KEY=
+STRIPE_WEBHOOK_SECRET=
