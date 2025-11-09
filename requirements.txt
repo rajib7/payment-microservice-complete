@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+pydantic
+pytest
+requests
+stripe
